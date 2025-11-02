@@ -23,7 +23,7 @@ python3 -m venv venv_1
 source venv_1/bin/activate
 
 
-📸 Captura sugerida: Activación del entorno venv_1.
+
 
 📦 Instalación de paquetes
 
@@ -38,7 +38,7 @@ pip install jupyter
 pip freeze > requirements.txt
 
 
-📸 Captura sugerida: Contenido del archivo requirements.txt.
+
 
 ▶️ Ejecución
 Script principal
@@ -57,8 +57,6 @@ Ejecutar en Jupyter:
 jupyter notebook src/notebook_a.ipynb
 
 
-📸 Captura sugerida: Ejecución del notebook o del script en terminal.
-
 📁 Estructura del proyecto
 proyecto_A/
 │
@@ -69,13 +67,8 @@ proyecto_A/
 ├─ requirements.txt
 └─ README_A.md
 
-✍️ Autor
-
-Neyireth Soriano
-📅 Noviembre de 2025
 
 
----
 
 ## 📗 **proyecto_B/README_B.md**
 
@@ -104,7 +97,7 @@ python3 -m venv venv_2
 source venv_2/bin/activate
 
 
-📸 Captura sugerida: Activación del entorno venv_2.
+
 
 📦 Instalación de paquetes
 
@@ -113,13 +106,13 @@ Instalar el paquete pandas:
 pip install pandas
 
 
-📸 Captura sugerida: Instalación de pandas.
+
 
 🧾 Generar archivo requirements.txt
 pip freeze > requirements.txt
 
 
-📸 Captura sugerida: Contenido del archivo requirements.txt.
+
 
 ▶️ Ejecución
 Script 1 – algoritmo_b1.py
@@ -146,7 +139,7 @@ Salida esperada:
 2  3  6  9
 
 
-📸 Captura sugerida: Ejecución de ambos scripts.
+
 
 📁 Estructura del proyecto
 proyecto_B/
